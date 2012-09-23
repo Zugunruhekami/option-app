@@ -1,0 +1,19 @@
+<Body>
+  <Call ticker="MRK" strike = "45" expiry="0.08333" rate=".0025" div="0.038">
+    <SpotList>
+      <Price>44</Price>
+      <Price>44.5</Price>
+      <Price>45</Price>
+      <Price>45.5</Price>
+      <Price>46</Price>
+    </SpotList>
+  
+    <VolList>
+      <Vol>.13</Vol>
+      <Vol>.135</Vol>
+      <Vol>.14</Vol>
+      <Vol>.145</Vol>
+      <Vol>.15</Vol>
+    </VolList>
+  </Call>
+</Body>
